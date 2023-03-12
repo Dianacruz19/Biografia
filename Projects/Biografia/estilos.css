@@ -1,0 +1,18 @@
+
+.contenedor{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.izquierda{
+    width: 40%;
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+
+.derecha{
+    font-family: 'Courier New', Courier, monospace;
+}
